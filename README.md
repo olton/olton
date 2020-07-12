@@ -21,4 +21,5 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 If you like my projects, you can support me at: 
 - [Patreon](https://www.patreon.com/metroui)
 - [Buy me coffe](https://www.buymeacoffee.com/pimenov)
+- [Other ways to help me](https://metroui.org.ua/support.html)
 

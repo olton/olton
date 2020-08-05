@@ -26,19 +26,12 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 [![CSS](https://img.shields.io/badge/MySQL-14%20years-brightgreen?style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/SQL-30%20years-brightgreen?style=for-the-badge)]()
 
-### My teth skills
-
-[![CSS](https://img.shields.io/badge/Windows-more%2010%20years-brightgreen?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/Linux-1%20years-orange?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/GIT-10%20years-orange?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/NodeJS-2%20years-orange?style=for-the-badge)]()
-
-### Frameworks knowns
+### Knowledge of frameworks
 
 [![CSS](https://img.shields.io/badge/Metro%204-8%20years-brightgreen?style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/jQuery-8%20years-brightgreen?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/React-1%20years-orange?style=for-the-badge)]()
-
+[![CSS](https://img.shields.io/badge/React-1%20year-yellow?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/Vue-less%201%20year-red?style=for-the-badge)]()
 
 ### I’m currently working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)

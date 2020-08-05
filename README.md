@@ -17,23 +17,16 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 - [x] Languages: **Ukrainian** (native), Russian (native), English (in studying)
 
 ### My skills
-[![CSS](https://img.shields.io/badge/CSS-10%20years-brightgreen&style=for-the-badge)]()
 
-[![CSS](https://img.shields.io/badge/LESS-8%20years-brightgreen&style=for-the-badge)]()
-
-[![CSS](https://img.shields.io/badge/JavaScript-10%20years-brightgreen&style=for-the-badge)]()
-
-[![CSS](https://img.shields.io/badge/HTML-10%20years-brightgreen&style=for-the-badge)]()
-
-[![CSS](https://img.shields.io/badge/PHP-14%20years-brightgreen&style=for-the-badge)]()
-
-[![CSS](https://img.shields.io/badge/MySQL-14%20years-brightgreen&style=for-the-badge)]()
-
-[![CSS](https://img.shields.io/badge/SQL-30%20years-brightgreen&style=for-the-badge)]()
-
-[![CSS](https://img.shields.io/badge/Kotlin-1%20year-red&style=for-the-badge)]()
-
-[![CSS](https://img.shields.io/badge/Java-less 1%20year-red&style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/CSS-10%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/LESS-8%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/JavaScript-10%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/HTML-10%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/PHP-14%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/MySQL-14%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/SQL-30%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/Kotlin-1%20year-red?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/Java-less 1%20year-red?style=for-the-badge)]()
 
 
 ### I’m currently working on

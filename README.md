@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=compact)](https://github.com/olton?tab=repositories)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)
+
 
 ## I'm Serhii Pimenov and I'm Web Developer from Ukraine
 

@@ -1,6 +1,6 @@
 ![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=compact)](https://github.com/olton?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=compact&theme=radical)](https://github.com/olton?tab=repositories)
 
 ## I'm Serhii Pimenov and I'm Web Developer from Ukraine
 

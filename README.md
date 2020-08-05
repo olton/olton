@@ -1,8 +1,6 @@
 ![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=compact)](https://github.com/olton?tab=repositories)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)
-
 
 ## I'm Serhii Pimenov and I'm Web Developer from Ukraine
 
@@ -19,9 +17,11 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 - [x] Languages: **Ukrainian** (native), Russian (native), English (in studying)
 
 ### I’m currently working on
-- 🔭 [Metro 4](https://github.com/olton/Metro-UI-CSS)
-- 🔭 [Metro 4 for React](https://github.com/olton/Metro-React)
-- 🔭 [Metro 4 Query](https://github.com/olton/m4q)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-React)](https://github.com/olton/Metro-React)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=m4q)](https://github.com/olton/m4q)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Pandora)](https://github.com/olton/Pandora)
+
 - 🔭 ... and others usefulness open-source projects.
 
 If you like my projects, you can support me at: 

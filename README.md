@@ -16,7 +16,7 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 - [x] Email: [serhii@pimenov.com.ua](mailto:serhii@pimenov.com.ua)
 - [x] Languages: **Ukrainian** (native), Russian (native), English (in studying)
 
-### My skills
+### My programming languages skills
 
 [![CSS](https://img.shields.io/badge/CSS-10%20years-brightgreen?style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/LESS-8%20years-brightgreen?style=for-the-badge)]()
@@ -25,6 +25,20 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 [![CSS](https://img.shields.io/badge/PHP-14%20years-brightgreen?style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/MySQL-14%20years-brightgreen?style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/SQL-30%20years-brightgreen?style=for-the-badge)]()
+
+### My teth skills
+
+[![CSS](https://img.shields.io/badge/Windows-more%2010%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/Linux-1%20years-orange?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/GIT-10%20years-orange?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/NodeJS-2%20years-orange?style=for-the-badge)]()
+
+### Frameworks knowns
+
+[![CSS](https://img.shields.io/badge/Metro%204-8%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/jQuery-8%20years-brightgreen?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/React-1%20years-orange?style=for-the-badge)]()
+
 
 ### I’m currently working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)

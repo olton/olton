@@ -25,9 +25,6 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 [![CSS](https://img.shields.io/badge/PHP-14%20years-brightgreen?style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/MySQL-14%20years-brightgreen?style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/SQL-30%20years-brightgreen?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/Kotlin-1%20year-red?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/Java-less 1%20year-red?style=for-the-badge)]()
-
 
 ### I’m currently working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)

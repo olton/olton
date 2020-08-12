@@ -28,10 +28,16 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 
 ### Knowledge of frameworks
 
-[![CSS](https://img.shields.io/badge/Metro%204-8%20years-brightgreen?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/jQuery-8%20years-brightgreen?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/React-1%20year-yellow?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/Vue-less%201%20year-red?style=for-the-badge)]()
+[![Metro4](https://img.shields.io/badge/Metro%204-8%20years-brightgreen?style=for-the-badge)]()
+[![jQuery](https://img.shields.io/badge/jQuery-8%20years-brightgreen?style=for-the-badge)]()
+[![React](https://img.shields.io/badge/React-1%20year-yellow?style=for-the-badge)]()
+[![Vue](https://img.shields.io/badge/Vue-less%201%20year-red?style=for-the-badge)]()
+
+### Now studying
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-1%20year-yellow?style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Java-1%20year-yellow?style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Blockchain-1%20year-yellow?style=for-the-badge)]()
 
 ### I’m currently working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)

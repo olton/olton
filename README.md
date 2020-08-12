@@ -42,7 +42,8 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 ### Hobbies
 
 [![Guitar](https://img.shields.io/badge/Guitar-Open%20G-green?style=for-the-badge)]()
-[![Piano](https://img.shields.io/badge/Piano-1%20year-green?style=for-the-badge)]()
+[![Guitar](https://img.shields.io/badge/Guitar-Standard-green?style=for-the-badge)]()
+[![Piano](https://img.shields.io/badge/Forte-Piano-green?style=for-the-badge)]()
 [![Dogs](https://img.shields.io/badge/Dog-training-green?style=for-the-badge)]()
 [![Shooting](https://img.shields.io/badge/Applied-shooting-green?style=for-the-badge)]()
 

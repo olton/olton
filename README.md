@@ -35,9 +35,12 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 
 ### Now studying
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-1%20year-green?style=for-the-badge)]()
-[![Java](https://img.shields.io/badge/Java-1%20year-green?style=for-the-badge)]()
-[![Java](https://img.shields.io/badge/Blockchain-1%20year-green?style=for-the-badge)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-1%20year-red?style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Java-1%20year-red?style=for-the-badge)]()
+[![Blockchain](https://img.shields.io/badge/Blockchain-1%20year-red?style=for-the-badge)]()
+
+### Hobbies
+
 [![Guitar](https://img.shields.io/badge/Guitar-Open%20G-green?style=for-the-badge)]()
 [![Piano](https://img.shields.io/badge/Piano-1%20year-green?style=for-the-badge)]()
 [![Dogs](https://img.shields.io/badge/Dog-training-green?style=for-the-badge)]()

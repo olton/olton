@@ -1,4 +1,4 @@
-![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&theme=radical&hide=prs,contribs)
+![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&theme=radical&hide=prs,contribs&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=compact&theme=radical)](https://github.com/olton?tab=repositories)
 

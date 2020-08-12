@@ -35,9 +35,13 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 
 ### Now studying
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-1%20year-yellow?style=for-the-badge)]()
-[![Java](https://img.shields.io/badge/Java-1%20year-yellow?style=for-the-badge)]()
-[![Java](https://img.shields.io/badge/Blockchain-1%20year-yellow?style=for-the-badge)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-1%20year-green?style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Java-1%20year-green?style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Blockchain-1%20year-green?style=for-the-badge)]()
+[![Guitar](https://img.shields.io/badge/Guitar-Open%20G-green?style=for-the-badge)]()
+[![Piano](https://img.shields.io/badge/Piano-1%20year-green?style=for-the-badge)]()
+[![Dogs](https://img.shields.io/badge/Dog-training-green?style=for-the-badge)]()
+[![Shooting](https://img.shields.io/badge/Applied-shooting-green?style=for-the-badge)]()
 
 ### I’m currently working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)

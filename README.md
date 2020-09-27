@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=olton)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&theme=radical&hide=prs,contribs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=compact&theme=radical&hide=kotlin)](https://github.com/olton?tab=repositories)
+![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&hide=prs,contribs&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=compact&hide=kotlin)](https://github.com/olton?tab=repositories)
 
 ## I'm Serhii Pimenov and I'm Web Developer from Ukraine
 

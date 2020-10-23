@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=olton)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=olton&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&hide=prs,contribs&count_private=true)

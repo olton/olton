@@ -16,7 +16,7 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 - [x] Degree: **Bachelor of law**
 - [x] Website: [pimenov.com.ua](https://pimenov.com.ua)
 - [x] Email: [serhii@pimenov.com.ua](mailto:serhii@pimenov.com.ua)
-- [x] Languages: **Ukrainian** (native), Russian (native), English (in studying)
+- [x] Languages: **Ukrainian** (native), Russian (native), English (Pre-Intermediate, in studying)
 
 ### My programming languages skills
 

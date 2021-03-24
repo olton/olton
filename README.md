@@ -51,7 +51,7 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 
 ### I’m currently working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro4-React)](https://github.com/olton/HtmlJS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro4-React)](https://github.com/olton/htmljs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=m4q)](https://github.com/olton/m4q)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=DatetimeJS)](https://github.com/olton/DatetimeJS)
 

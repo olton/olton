@@ -1,4 +1,4 @@
-[![COdersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=olton&badges=3&show-avatar=false&style=--header-bg-color:%23fff;--border-radius:4px)]()
+[![COdersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=olton&badges=3&show-avatar=false&style=--border-radius:4px)]()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olton&column=8&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
 

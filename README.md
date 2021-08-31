@@ -57,7 +57,7 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=chartjs)](https://github.com/olton/chartjs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=m4q)](https://github.com/olton/m4q)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=datetime)](https://github.com/olton/datetime)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=cake)](https://github.com/olton/cake)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=string)](https://github.com/olton/string)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=mina-node-monitor)](https://github.com/olton/mina-node-monitor)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=mina-monitor-cluster)](https://github.com/olton/mina-monitor-cluster)
 

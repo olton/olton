@@ -48,7 +48,7 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 [![Dart](https://img.shields.io/badge/Dart-Begin-blueviolet?style=for-the-badge)]()
 [![Rust](https://img.shields.io/badge/Rust-Begin-blueviolet?style=for-the-badge)]()
 [![OCaml](https://img.shields.io/badge/OCaml-Begin-blueviolet?style=for-the-badge)]()
-[![C#](https://img.shields.io/badge/C#-Begin-blueviolet?style=for-the-badge)]()
+[![Csharp](https://img.shields.io/badge/Csharp-Begin-blueviolet?style=for-the-badge)]()
 [![Flutter](https://img.shields.io/badge/Flutter-Begin-blueviolet?style=for-the-badge)]()
 [![Solidity](https://img.shields.io/badge/Solidity-Begin-blueviolet?style=for-the-badge)]()
 
@@ -72,7 +72,6 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=mina-monitor-cluster)](https://github.com/olton/mina-monitor-cluster)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur)](https://github.com/olton/minataur)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur2)](https://github.com/olton/minataur2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moduac&repo=moduac-docs)](https://github.com/moduac/moduac-docs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KorzhCom&repo=EasyData)](https://github.com/KorzhCom/EasyData)
 
 - 🔭 ... and others usefulness open-source projects.

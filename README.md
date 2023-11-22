@@ -11,8 +11,8 @@
 Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm very passionate and dedicated to my work. With 20 years of experience as a programmer and over 10 years of experience as a professional Web Developer. I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do. Now I specialized in creating web components with HTML, JavaScript, and CSS.
 
 ### Short info about me
-- [x] Birthday: **21.12.1972**
-- [x] City: **Kiev, Ukraine**
+- [x] Age: **51**
+- [x] City: **Kyiv, Ukraine**
 - [x] Hobbies: **Dogs, Shooting, Fishing**
 - [x] Study: **Taurida Institute of MCL**
 - [x] Degree: **Bachelor of law**
@@ -20,7 +20,7 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 - [x] Email: [serhii@pimenov.com.ua](mailto:serhii@pimenov.com.ua)
 - [x] Languages: **Ukrainian** (native), Russian (native), English (Pre-Intermediate, in studying)
 
-### My programming languages skills
+### My programming language skills
 
 [![CSS](https://img.shields.io/badge/CSS-10%20years-brightgreen?style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/LESS-8%20years-brightgreen?style=for-the-badge)]()

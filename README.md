@@ -72,7 +72,7 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=mina-monitor-cluster)](https://github.com/olton/mina-monitor-cluster)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur)](https://github.com/olton/minataur)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur2)](https://github.com/olton/minataur2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moduac&repo=moduac-doc)](https://github.com/moduac/moduac-doc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moduac&repo=moduac-docs)](https://github.com/moduac/moduac-docs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KorzhCom&repo=EasyData)](https://github.com/KorzhCom/EasyData)
 
 - 🔭 ... and others usefulness open-source projects.

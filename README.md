@@ -67,6 +67,9 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=m4q)](https://github.com/olton/m4q)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=datetime)](https://github.com/olton/datetime)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=string)](https://github.com/olton/string)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=hooks)](https://github.com/olton/hooks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=farbe)](https://github.com/olton/farbe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=animation)](https://github.com/olton/animation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur2)](https://github.com/olton/minataur2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KorzhCom&repo=EasyData)](https://github.com/KorzhCom/EasyData)
 

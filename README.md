@@ -36,6 +36,7 @@ Hi! My name is Serhii Pimenov. I am a Web Developer from Kiyv, Ukraine, and I'm 
 [![jQuery](https://img.shields.io/badge/jQuery-8%20years-brightgreen?style=for-the-badge)]()
 [![React](https://img.shields.io/badge/React-3%20year-yellow?style=for-the-badge)]()
 [![Vue](https://img.shields.io/badge/Vue-less%201%20year-red?style=for-the-badge)]()
+[![Angular](https://img.shields.io/badge/Angular-less%201%20year-red?style=for-the-badge)]()
 
 ### Knowledge of tools
 [![Git](https://img.shields.io/badge/Git-brightgreen?style=for-the-badge)]()

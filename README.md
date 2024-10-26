@@ -6,6 +6,8 @@
 ![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&hide=prs,contribs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=compact&hide=kotlin)](https://github.com/olton?tab=repositories)
 
+> ## Open to job offers!
+
 ## I'm Serhii Pimenov and I'm a Web Developer from Ukraine
 
 Hi! My name is Serhii Pimenov. I am a Web Developer from Kyiv, Ukraine. I'm passionate and dedicated to my work. 

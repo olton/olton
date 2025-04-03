@@ -24,7 +24,7 @@ At this time I specialize in creating web components with HTML, JavaScript, and 
 - [x] Study: **Taurida Institute of MCL**, **Bachelor of law**
 - [x] Website: [pimenov.com.ua](https://pimenov.com.ua)
 - [x] Email: [serhii@pimenov.com.ua](mailto:serhii@pimenov.com.ua)
-- [x] Languages: **Ukrainian** (native), English (Pre-Intermediate, in studying), Russian (native, in extreme cases) 
+- [x] Languages: **Ukrainian** (native), English (Pre-Intermediate+, in studying), Russian (native, in extreme cases) 
 
 ### My programming language skills
 

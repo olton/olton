@@ -71,7 +71,6 @@ At this time I specialize in creating web components with HTML, JavaScript, and 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur2)](https://github.com/olton/minataur2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=terminal)](https://github.com/olton/terminal)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=progress)](https://github.com/olton/progress)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=panda)](https://github.com/olton/panda)
 
 - 🔭 ... and other useful open-source projects, which you can find on my GitHub.
 

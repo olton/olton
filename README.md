@@ -69,10 +69,18 @@ At this time I specialize in creating web components with HTML, JavaScript, and 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=easytest)](https://github.com/olton/easytest)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur2)](https://github.com/olton/minataur2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=terminal)](https://github.com/olton/terminal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=progress)](https://github.com/olton/progress)
 
 - 🔭 ... and other useful open-source projects, which you can find on my GitHub.
 
-If you like my projects, you can support me at: 
-- [Patreon](https://www.patreon.com/metroui)
-- `PayPal` - to **serhii@pimenov.com.ua**
+---
+
+If you like my project, please consider supporting it by:
+
++ Star this repository on GitHub
++ Sponsor this project on GitHub Sponsors
++ **PayPal** to `serhii@pimenov.com.ua`.
++ [**Patreon**](https://www.patreon.com/metroui)
++ [**Buy me a coffee**](https://buymeacoffee.com/pimenov)
 

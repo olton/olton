@@ -72,23 +72,33 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 <div align="center">
 
-### Knowledge of frameworks
+### Libraries and Frameworks
 
 ![MetroUI](https://img.shields.io/badge/Metro%20UI-8A2BE2)
 ![jQuery](https://img.shields.io/badge/JQuery-8A2BE2)
 ![React](https://img.shields.io/badge/React-8A2BE2)
 ![Vue](https://img.shields.io/badge/Vue-8A2BE2)
+![Astro](https://img.shields.io/badge/Astro-8A2BE2)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-8A2BE2)
+![Rspress](https://img.shields.io/badge/RSpress-8A2BE2)
+
 
 </div>
 
-### Knowledge of tools
+---
 
-- [x] Git/GitHub
-- [x] Rollup
-- [x] esbuild
-- [x] Webpack
-- [x] Astro
-- [x] RSPress   
+<div align="center">
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git%20GitHub-8A2BE2)
+![Rollup](https://img.shields.io/badge/Rollup-8A2BE2)
+![esbuild](https://img.shields.io/badge/esbuild-8A2BE2)
+![Webpack](https://img.shields.io/badge/Webpack-8A2BE2)
+
+</div>
+
+---
 
 ### Now studying
 

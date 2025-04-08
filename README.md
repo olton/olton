@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olton&column=8&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=olton&column=6&theme=onedark&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

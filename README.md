@@ -1,11 +1,13 @@
 <h1 align="center"> Hi there, I'm Serhii Pimenov </h1>
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=olton)
+
+</div>  
 <h3 align="center">I am a Web Developer from Kyiv, Ukraine 💙💛.</h3>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=olton&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
-
-  ![](https://komarev.com/ghpvc/?username=olton)
-  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=olton&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a> 
 </div>
 
 ---

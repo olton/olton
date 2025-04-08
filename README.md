@@ -28,17 +28,13 @@
   
 </div>
 
+## About Me
 
-> ## Open to job offers!
+My name is Serhii Pimenov. I am a Web Developer from Kyiv, Ukraine. I'm passionate and dedicated to my work. 
+I have over 20 years of experience as a programmer and over 10 years of experience as a professional web developer. 
 
-## I'm Serhii Pimenov and I'm a Web Developer from Ukraine
-
-Hi! My name is Serhii Pimenov. I am a Web Developer from Kyiv, Ukraine. I'm passionate and dedicated to my work. 
-I have more than 20 years of experience as a programmer and over 10 years of experience as a professional web developer. 
-
-I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do. 
-
-At this time I specialize in creating web components with HTML, JavaScript, and CSS. Also, I'm working on EasyTest — a light test framework for JS and TS.
+I enjoy every step of the design process, from discussion and collaboration to concept and execution. 
+Still, I find the most satisfaction in seeing the finished product do everything for you that it was created to do. 
 
 ### Short info about me
 - [x] Age: **51**

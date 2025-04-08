@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  ![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&count_private=true)
+  ![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&count_private=true&theme=tokyonight)
   
 </div>
 

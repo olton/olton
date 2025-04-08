@@ -60,7 +60,7 @@ Still, I find the most satisfaction in seeing the finished product do everything
 ![Static Badge](https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&label=JavaScript)
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E&logo=typescript)
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E&logo=html)
 ![CSS](https://img.shields.io/badge/CSS-F7DF1E&logo=css)

@@ -74,10 +74,10 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ### Knowledge of frameworks
 
-![MetroUI](https://img.shields.io/badge/Metro%20UI-F7DF1E)
-![jQuery](https://img.shields.io/badge/JQuery-F7DF1E)
-![React](https://img.shields.io/badge/React-F7DF1E)
-![Vue](https://img.shields.io/badge/Vue-F7DF1E)
+![MetroUI](https://img.shields.io/badge/Metro%20UI-8A2BE2)
+![jQuery](https://img.shields.io/badge/JQuery-8A2BE2)
+![React](https://img.shields.io/badge/React-8A2BE2)
+![Vue](https://img.shields.io/badge/Vue-8A2BE2)
 
 </div>
 

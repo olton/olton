@@ -18,8 +18,12 @@
 
 </div>
 
-![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&hide=prs,contribs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=default&hide=kotlin)](https://github.com/olton?tab=repositories)
+<div align="center">
+
+![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&count_private=true)
+  
+</div>
+
 
 > ## Open to job offers!
 

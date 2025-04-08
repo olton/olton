@@ -57,7 +57,7 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ### Programming Language skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-100%-F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS-F7DF1E)

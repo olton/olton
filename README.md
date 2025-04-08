@@ -54,13 +54,13 @@ Still, I find the most satisfaction in seeing the finished product do everything
 ### Programming Language skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E&logo=javascript)
-
-- [x] JavaScript/TypeScript
-- [x] HTML
-- [x] CSS/LESS
-- [x] PHP
-- [x] SQL (MySQL, PostgreSQL, Oracle)
-- [x] Rust
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E&logo=typescript)
+![HTML](https://img.shields.io/badge/HTML-F7DF1E&logo=html)
+![CSS](https://img.shields.io/badge/CSS-F7DF1E&logo=css)
+![LESS](https://img.shields.io/badge/Less-F7DF1E&logo=less)
+![PHP](https://img.shields.io/badge/PHP-F7DF1E&logo=php)
+![JavaScript](https://img.shields.io/badge/SQL-F7DF1E&logo=sql)
+![Rust](https://img.shields.io/badge/Rust-F7DF1E&logo=rust)
 
 ### Knowledge of frameworks
 

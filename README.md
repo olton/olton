@@ -8,6 +8,9 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=olton&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a> 
+
+  ![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&count_private=true)
+
 </div>
 
 ---
@@ -20,7 +23,6 @@
 
 <div align="center">
 
-![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&count_private=true)
   
 </div>
 

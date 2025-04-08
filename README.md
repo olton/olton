@@ -51,6 +51,8 @@ Still, I find the most satisfaction in seeing the finished product do everything
 - [x] Email: [serhii@pimenov.com.ua](mailto:serhii@pimenov.com.ua)
 - [x] Languages: **Ukrainian** (native), English (Pre-Intermediate+, in studying), Russian (native, in extreme cases) 
 
+---
+
 <div align="center">
 
 ### Programming Language skills
@@ -65,6 +67,8 @@ Still, I find the most satisfaction in seeing the finished product do everything
 ![Rust](https://img.shields.io/badge/Rust-F7DF1E&logo=rust)
 
 </div>
+
+---
 
 ### Knowledge of frameworks
 

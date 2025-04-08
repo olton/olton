@@ -16,7 +16,9 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olton&theme=tokyo-night)](https://github.com/olton)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olton&theme=tokyonight)
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olton&theme=tokyo-night)](https://github.com/olton) -->
 
 ---
 

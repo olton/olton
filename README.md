@@ -1,4 +1,7 @@
-<h1 align="center"> Hi there, I'm Serhii Pimenov </h1>
+<h1 align="center"> 
+  Hi there, I'm Serhii Pimenov 
+  <div align="center" color="red">Open For Job Offers!</div>
+</h1>
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=olton)

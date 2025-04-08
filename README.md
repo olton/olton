@@ -1,6 +1,6 @@
 <h1 align="center"> 
   Hi there, I'm Serhii Pimenov 
-  <div align="center" fg-color="red">Open For Job Offers!</div>
+  <small align="center" style="color: red">Open For Job Offers!</small>
 </h1>
 <div align="center">
 

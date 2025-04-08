@@ -57,9 +57,6 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ### Programming Language skills
 
-![Static Badge](https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&label=JavaScript)
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E&logo=typescript)
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E&logo=html)
@@ -73,13 +70,16 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ---
 
+<div align="center">
+
 ### Knowledge of frameworks
 
-- [x] Metro UI
-- [x] jQuery
-- [x] React
-- [x] Angular
-- [x] Vue
+![MetroUI](https://img.shields.io/badge/Metro-UI-F7DF1E)
+![jQuery](https://img.shields.io/badge/JQuery-F7DF1E)
+![React](https://img.shields.io/badge/React-F7DF1E)
+![Vue](https://img.shields.io/badge/Vue-F7DF1E)
+
+</div>
 
 ### Knowledge of tools
 

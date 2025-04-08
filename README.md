@@ -8,7 +8,7 @@
   <div><small align="center" style="color: red">Open For Job Offers!</small></div>
 
 </div>  
-<h3 align="center">I am a Web Developer from Kyiv, Ukraine 💙💛.</h3>
+<h3 align="center">I am a Web Developer from Kyiv, Ukraine 💙💛!</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=olton&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a> 
@@ -30,6 +30,8 @@
 
 </div>
 
+---
+
 ## About Me
 
 My name is Serhii Pimenov. I am a Web Developer from Kyiv, Ukraine. I'm passionate and dedicated to my work. 
@@ -37,6 +39,8 @@ I have over 20 years of experience as a programmer and over 10 years of experien
 
 I enjoy every step of the design process, from discussion and collaboration to concept and execution. 
 Still, I find the most satisfaction in seeing the finished product do everything for you that it was created to do. 
+
+---
 
 ### General Info
 - [x] Age: **51**

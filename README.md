@@ -36,7 +36,7 @@ I have over 20 years of experience as a programmer and over 10 years of experien
 I enjoy every step of the design process, from discussion and collaboration to concept and execution. 
 Still, I find the most satisfaction in seeing the finished product do everything for you that it was created to do. 
 
-### Short info about me
+### General Info
 - [x] Age: **51**
 - [x] City: **Kyiv, Ukraine**
 - [x] Hobbies: **Dogs, Shooting, Fishing**
@@ -45,7 +45,7 @@ Still, I find the most satisfaction in seeing the finished product do everything
 - [x] Email: [serhii@pimenov.com.ua](mailto:serhii@pimenov.com.ua)
 - [x] Languages: **Ukrainian** (native), English (Pre-Intermediate+, in studying), Russian (native, in extreme cases) 
 
-### My programming language skills
+### Programming Language skills
 
 - [x] JavaScript/TypeScript
 - [x] HTML
@@ -85,13 +85,13 @@ Still, I find the most satisfaction in seeing the finished product do everything
 - [x] Executive
 
 ### I’m currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS)](https://github.com/olton/Metro-UI-CSS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=easytest)](https://github.com/olton/easytest)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur2)](https://github.com/olton/minataur2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=terminal)](https://github.com/olton/terminal)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=progress)](https://github.com/olton/progress)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS&description_lines_count=1)](https://github.com/olton/Metro-UI-CSS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=latte&description_lines_count=1)](https://github.com/olton/latte)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur2&description_lines_count=1)](https://github.com/olton/minataur2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=terminal&description_lines_count=1)](https://github.com/olton/terminal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=progress&description_lines_count=1)](https://github.com/olton/progress)
 
-- 🔭 ... and other useful open-source projects, which you can find on my GitHub.
+- 🔭 ... and other useful open-source projects can be found on my GitHub.
 
 ---
 

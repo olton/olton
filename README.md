@@ -100,9 +100,6 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ---
 
-### Now studying
-
-> I liked Rust, so I'm actively learning it now!
 
 ### Personal qualities
 
@@ -112,6 +109,10 @@ Still, I find the most satisfaction in seeing the finished product do everything
 - [x] Reliable
 - [x] Flexible
 - [x] Executive
+- [x] Ambition
+- [x] Agreeableness
+- [x] Openness
+- [x] Conscientiousness
 
 ### I’m currently working on
 

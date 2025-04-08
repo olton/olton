@@ -51,6 +51,8 @@ Still, I find the most satisfaction in seeing the finished product do everything
 - [x] Email: [serhii@pimenov.com.ua](mailto:serhii@pimenov.com.ua)
 - [x] Languages: **Ukrainian** (native), English (Pre-Intermediate+, in studying), Russian (native, in extreme cases) 
 
+<div align="center">
+
 ### Programming Language skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E&logo=javascript)
@@ -61,6 +63,8 @@ Still, I find the most satisfaction in seeing the finished product do everything
 ![PHP](https://img.shields.io/badge/PHP-F7DF1E&logo=php)
 ![JavaScript](https://img.shields.io/badge/SQL-F7DF1E&logo=sql)
 ![Rust](https://img.shields.io/badge/Rust-F7DF1E&logo=rust)
+
+</div>
 
 ### Knowledge of frameworks
 

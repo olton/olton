@@ -5,6 +5,8 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=olton&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
+---
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olton&column=8&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)

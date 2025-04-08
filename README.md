@@ -58,13 +58,13 @@ Still, I find the most satisfaction in seeing the finished product do everything
 ### Programming Language skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-100-F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-F7DF1E)
-![LESS](https://img.shields.io/badge/Less-F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-F7DF1E)
-![JavaScript](https://img.shields.io/badge/SQL-F7DF1E)
-![Rust](https://img.shields.io/badge/Rust-F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-80-F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-100-F7DF1E)
+![CSS](https://img.shields.io/badge/CSS-100-F7DF1E)
+![LESS](https://img.shields.io/badge/Less-100-F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-90-F7DF1E)
+![JavaScript](https://img.shields.io/badge/SQL-80-F7DF1E)
+![Rust](https://img.shields.io/badge/Rust-50-F7DF1E)
 
 </div>
 

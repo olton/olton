@@ -30,11 +30,9 @@
 
 </div>
 
-<div align="center">
-
-  ![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&count_private=true&theme=tokyonight)
-  
-</div>
+| | | |
+| :--: | :--: | :--: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olton&theme=tokyonight) |
 
 ## About Me
 

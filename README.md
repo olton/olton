@@ -1,7 +1,15 @@
-# Welcome to Serhii Pimenov Profile
+<h1 align="center"> Hi there, I'm Serhii Pimenov </h1>
+<h3 align="center">I am a Web Developer from Kyiv, Ukraine 💙💛.</h3>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=olton&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
+
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olton&column=8&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 
 ![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=olton&show_icons=true&hide=prs,contribs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olton&layout=compact&hide=kotlin)](https://github.com/olton?tab=repositories)

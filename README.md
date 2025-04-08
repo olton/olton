@@ -57,14 +57,14 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ### Programming Language skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E&logo=typescript)
-![HTML](https://img.shields.io/badge/HTML-F7DF1E&logo=html)
-![CSS](https://img.shields.io/badge/CSS-F7DF1E&logo=css)
-![LESS](https://img.shields.io/badge/Less-F7DF1E&logo=less)
-![PHP](https://img.shields.io/badge/PHP-F7DF1E&logo=php)
-![JavaScript](https://img.shields.io/badge/SQL-F7DF1E&logo=sql)
-![Rust](https://img.shields.io/badge/Rust-F7DF1E&logo=rust)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-F7DF1E)
+![CSS](https://img.shields.io/badge/CSS-F7DF1E)
+![LESS](https://img.shields.io/badge/Less-F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-F7DF1E)
+![JavaScript](https://img.shields.io/badge/SQL-F7DF1E)
+![Rust](https://img.shields.io/badge/Rust-F7DF1E)
 
 </div>
 

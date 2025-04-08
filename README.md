@@ -91,10 +91,10 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git%20GitHub-8A2BE2)
-![Rollup](https://img.shields.io/badge/Rollup-8A2BE2)
-![esbuild](https://img.shields.io/badge/esbuild-8A2BE2)
-![Webpack](https://img.shields.io/badge/Webpack-8A2BE2)
+![Git](https://img.shields.io/badge/Git%20GitHub-038ae4)
+![Rollup](https://img.shields.io/badge/Rollup-038ae4)
+![esbuild](https://img.shields.io/badge/esbuild-038ae4)
+![Webpack](https://img.shields.io/badge/Webpack-038ae4)
 
 </div>
 

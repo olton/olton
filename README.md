@@ -1,10 +1,11 @@
 <h1 align="center"> 
   Hi there, I'm Serhii Pimenov 
-  <small align="center" style="color: red">Open For Job Offers!</small>
 </h1>
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=olton)
+  
+  <div><small align="center" style="color: red">Open For Job Offers!</small></div>
 
 </div>  
 <h3 align="center">I am a Web Developer from Kyiv, Ukraine 💙💛.</h3>

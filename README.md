@@ -20,19 +20,15 @@
 | :--: | :--: |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olton&theme=tokyonight&utcOffset=8) |
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olton&theme=tokyo-night)](https://github.com/olton) -->
-
----
+| | | |
+| :--: | :--: | :--: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olton&theme=tokyonight) |
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olton&column=6&theme=onedark&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-| | | |
-| :--: | :--: | :--: |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olton&theme=tokyonight) |
 
 ## About Me
 

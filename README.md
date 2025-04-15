@@ -114,19 +114,19 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ---
 
-
 ### Personal qualities
 
-- [x] Punctual
-- [x] Motivated
-- [x] Honest
-- [x] Reliable
-- [x] Flexible
-- [x] Executive
-- [x] Ambition
-- [x] Agreeableness
-- [x] Openness
-- [x] Conscientiousness
+- **Punctual and Reliable:** Consistently meet deadlines and commitments, ensuring high-quality results.
+- **Motivated and Proactive:** Strive for excellence while continuously enhancing skills and approaches.
+- **Honest and Trustworthy:** Adhere to ethical standards and value the trust of colleagues and clients.
+- **Flexible:** Adapt easily to changing work environments and new challenges.
+- **Strong Leadership Skills:** Effectively organize and execute managerial responsibilities.
+- **Ambitious:** Continuously seek professional and personal growth.
+- **Agreeable and Collaborative:** Build positive relationships within a team, demonstrating openness to cooperation.
+- **Open to Innovation:** Embrace new ideas and actively apply them in work processes.
+- **Conscientious and Organized:** Perform tasks with attention to detail, ensuring exceptional execution.
+
+---
 
 ### I’m currently working on
 

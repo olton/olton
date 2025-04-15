@@ -10,10 +10,6 @@
 </div>  
 <h3 align="center">I am a Web Developer from Kyiv, Ukraine 💙💛!</h3>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=olton&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a> 
-</div>
-
 ---
 
 | | |
@@ -57,14 +53,15 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ### Programming Language skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-100-F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-80-F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-100-F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-100-F7DF1E)
-![LESS](https://img.shields.io/badge/Less-100-F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-90-F7DF1E)
-![JavaScript](https://img.shields.io/badge/SQL-80-F7DF1E)
-![Rust](https://img.shields.io/badge/Rust-50-F7DF1E)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![less](https://img.shields.io/badge/LESS-41CD52?style=for-the-badge&logo=less&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
+![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -74,14 +71,29 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ### Libraries and Frameworks
 
-![MetroUI](https://img.shields.io/badge/Metro%20UI-8A2BE2)
-![jQuery](https://img.shields.io/badge/JQuery-8A2BE2)
-![React](https://img.shields.io/badge/React-8A2BE2)
-![Vue](https://img.shields.io/badge/Vue-8A2BE2)
-![Astro](https://img.shields.io/badge/Astro-8A2BE2)
-![Docusaurus](https://img.shields.io/badge/Docusaurus-8A2BE2)
-![Rspress](https://img.shields.io/badge/RSpress-8A2BE2)
+![MetroUI](https://img.shields.io/badge/MetroUI-A30701?style=for-the-badge&logo=metroui&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Latte](https://img.shields.io/badge/Latte-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=Docusaurus&logoColor=white)
 
+</div>
+
+---
+
+<div align="center">
+
+### Databases
+
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -91,10 +103,12 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git%20GitHub-038ae4)
-![Rollup](https://img.shields.io/badge/Rollup-038ae4)
-![esbuild](https://img.shields.io/badge/esbuild-038ae4)
-![Webpack](https://img.shields.io/badge/Webpack-038ae4)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![rollup](https://img.shields.io/badge/Rollup%20js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white)
+![esbuild](https://img.shields.io/badge/esbuild-F2E142?style=for-the-badge&logo=esbuild&logoColor=000)
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![Lerna](https://img.shields.io/badge/Lerna-3E3E3E?style=for-the-badge&logo=lerna&logoColor=white)
 
 </div>
 

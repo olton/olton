@@ -3,7 +3,7 @@
 
 ## 📩 Contact Information
 - Email: serhii@pimenov.com.ua
-- Phone: +380635022967
+- Phone: +3809395905654
 - Location: Kyiv, Ukraine
 - GitHub: github.com/olton
 - LinkedIn: linkedin.com/in/spimenov

@@ -9,11 +9,12 @@
 - LinkedIn: linkedin.com/in/spimenov
   
 ## 🎯 Profile
-Experienced Middle JavaScript Developer with 10+ years in web development, specializing in frontend development and high-performance solutions.
+Experienced JavaScript Developer with 10+ years in web development, specializing in frontend development and high-performance solutions.
 Strong expertise in JavaScript, TypeScript, HTML/CSS, and UI component development.
+
 Creator of Metro UI (UI components) and Latte (JavaScript/React testing framework).
 
-Looking for an opportunity to work in a dynamic team, apply cutting-edge technologies, and expand my skill set.
+Looking for an opportunity to work in a dynamic team in the position of Middle/Senior JavaScript Developer, apply cutting-edge technologies, and expand my skill set.
 
 ## 🛠️ Skills
 - Languages: JavaScript (ES6+), TypeScript, HTML5, CSS/LESS, SQL, PHP
@@ -21,6 +22,29 @@ Looking for an opportunity to work in a dynamic team, apply cutting-edge technol
 - Testing: Latte (framework author), Jest, Cypress
 - Tools: Webpack, Git, Docker
 - UI Development: Web component creation, responsive design, SPA architecture
+
+## 🚀 Projects
+**Latte – JavaScript/React Testing Framework**
+- Powerful tool for testing DOM, components, and code coverage
+- Built-in headless browser, 100+ matchers, flexible configuration
+  
+**Metro UI – Web Development UI Library**
+- 100+ components, SPA router, animated data binding model
+- Easy integration and customization
+
+**Minataur.net - Fastest explorer for Mina Blockchain**
+Explorer to view blocks, accounts, transactions, and more on the Mina Blockchain.
+
+More on my site: https://pimenov.com.ua
+  
+## 🎓 Education
+Tavria Institute of Entrepreneurship and Law  Bachelor's in Law  1997
+
+## 🔥 Personal Qualities
+- ✅ Punctual, responsible
+- ✅ Proactive, adaptable problem-solver
+- ✅ Strong teamwork and collaboration skills
+- ✅ Passionate about modern technologies
 
 ## 💼 Work Experience
 
@@ -39,20 +63,4 @@ Looking for an opportunity to work in a dynamic team, apply cutting-edge technol
 - Led the development of DNmarket.com, a domain marketplace platform
 - Researched and implemented innovative technologies
   
-## 🚀 Projects
-**Latte – JavaScript/React Testing Framework**
-- Powerful tool for testing DOM, components, and code coverage
-- Built-in headless browser, 100+ matchers, flexible configuration
-  
-**Metro UI – Web Development UI Library**
-- 100+ components, SPA router, animated data binding model
-- Easy integration and customization
-  
-## 🎓 Education
-Tavria Institute of Entrepreneurship and Law  Bachelor's in Law  1997
 
-## 🔥 Personal Qualities
-- ✅ Punctual, responsible
-- ✅ Proactive, adaptable problem-solver
-- ✅ Strong teamwork and collaboration skills
-- ✅ Passionate about modern technologies

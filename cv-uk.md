@@ -37,6 +37,11 @@
 - 100+ компонентів, SPA-роутер, анімована модель зв’язку
 - Легка інтеграція та кастомізація
 
+**Minataur.net - Fastest explorer for Mina Blockchain**
+Explorer to view blocks, accounts, transactions, and more on the Mina Blockchain.
+
+More on my site: https://pimenov.com.ua
+
 🎓 Освіта
 
 Таврійський інститут підприємництва та права  Бакалавр права  1997

@@ -6,9 +6,9 @@ I'm looking for an opportunity to work in a dynamic team, apply cutting-edge tec
 
 Experienced JavaScript Developer with 10+ years in web development, specializing in frontend development and high-performance solutions. Strong expertise in JavaScript, TypeScript, HTML/CSS, and UI component development. Creator of Metro UI (UI components) and Latte (JavaScript/React testing framework). 
 
-Site: https://pimenov.com.ua
-Portfolio: https://freelancehunt.com/freelancer/olton.html#portfolio
-GitHub: https://github.com/olton
+- Site: https://pimenov.com.ua
+- Portfolio: https://freelancehunt.com/freelancer/olton.html#portfolio
+- GitHub: https://github.com/olton
 
 ## 🛠️ Skills:
 

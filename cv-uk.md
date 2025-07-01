@@ -1,79 +1,79 @@
-## Profile
+## Профіль
 
-Greetings! My name is Serhii Pimenov. I'm a web developer from Kyiv, Ukraine. 
+Вітаю! Мене звати Сергій Піменов. Я веб-розробник із Києва, Україна.
 
-I'm looking for an opportunity to work in a dynamic team, apply cutting-edge technologies, and expand my skill set in the **Middle/Senior JavaScript Developer** position.
+Шукаю можливість працювати в динамічній команді, застосовувати сучасні технології та розширювати свої навички на позиції **Middle/Senior JavaScript Developer**.
 
-Experienced JavaScript Developer with 10+ years in web development, specializing in frontend development and high-performance solutions. Strong expertise in JavaScript, TypeScript, HTML/CSS, and UI component development. Creator of Metro UI (UI components) and Latte (JavaScript/React testing framework). 
+Досвідчений JavaScript-розробник з понад 10-річним досвідом у веб-розробці, спеціалізуюся на фронтенді та високопродуктивних рішеннях. Маю глибокі знання JavaScript, TypeScript, HTML/CSS та UI-компонентів.
 
-- Site: https://pimenov.com.ua
-- Portfolio: https://freelancehunt.com/freelancer/olton.html#portfolio
+- Сайт: https://pimenov.com.ua
+- Портфоліо: https://freelancehunt.com/freelancer/olton.html#portfolio
 - GitHub: https://github.com/olton
 
-## 🛠️ Skills:
+## 🛠️ Навички:
 
-+ ✅ Languages: JavaScript (ES6+), TypeScript, HTML5, CSS/LESS, SQL, PHP
-+ ✅ Frameworks: React, Vue, Astro, Metro UI
-+ ✅ Testing: Latte (framework author), Jest, Cypress
-+ ✅ Tools: esbuild, Git, Docker, n8n
-+ ✅ UI Development: Web component creation, responsive design, SPA architecture
-+ ✅ Database: mySQL, Postgresql, Oracle
++ ✅ Мови: JavaScript (ES6+), TypeScript, HTML5, CSS/LESS, SQL, PHP
++ ✅ Фреймворки: React, Vue, Astro, Metro UI
++ ✅ Тестування: Latte (автор фреймворку), Jest, Cypress
++ ✅ Інструменти: esbuild, Git, Docker, n8n
++ ✅ UI-розробка: Створення веб-компонентів, адаптивний дизайн, SPA-архітектура
++ ✅ Бази даних: mySQL, PostgreSQL, Oracle
 
+## 🎓 Освіта:
+Таврійський інститут підприємництва та права, бакалавр права, 1997
 
-## 🎓 Education: 
-Tavrida Institute of Entrepreneurship and Law, Bachelor's in Law, 1997
+## 🔥 Особисті якості:
 
-## 🔥 Personal Qualities:
+- ✅ Пунктуальний, відповідальний
+- ✅ Проактивний, здатний до вирішення проблем
+- ✅ Вміння працювати в команді та співпрацювати
+- ✅ Пристрасть до сучасних технологій
 
-- ✅ Punctual, responsible
-- ✅ Proactive, adaptable problem-solver
-- ✅ Strong teamwork and collaboration skills
-- ✅ Passionate about modern technologies
+## 🚀 Основні проєкти:
 
-## 🚀 Main Projects:
-
-**Latte Test Runner** - Powerful tool for testing DOM, React, components, and code coverage.
-Built-in headless browser, 100+ matchers, flexible configuration.
+**Latte Test Runner** — Потужний інструмент для тестування DOM, React, компонентів та покриття коду.
+Вбудований headless-браузер, понад 100 matcher-ів, гнучка конфігурація.
 
 https://latte.org.ua
 
-**Metro UI** – UI Library for progressive web development. 150+ components, 800+ icons, SPA router, reactive model, and more.
-Easy integration and customization.
+**Metro UI** — UI-бібліотека для сучасної веб-розробки. 150+ компонентів, 800+ іконок, SPA-роутер, реактивна модель та інше.
+Легка інтеграція та кастомізація.
 
 https://metroui.org.ua
 
-**Minataur** - Fastest blockchain explorer for Mina Blockchain
+**Minataur** — Найшвидший блокчейн-експлорер для Mina Blockchain
 
 https://minataur.net
 
 ---
-More on my site: https://pimenov.com.ua
+Більше на моєму сайті: https://pimenov.com.ua
 
+## 💼 Досвід роботи
 
-## 💼 Work Experience
+**Frontend Lead @ Korzh.com | Київ | Січень 2022 — дотепер**
 
-**Frontend Lead @ Korzh.com | Kyiv | Jan 2022 — Present**
+- Розробка сайтів та UI-компонентів (EasyQuery.JS, EasyData.JS, Easy.Report)
+- Впровадження TypeScript для кращої масштабованості
+- Оптимізація UI/UX для підвищення продуктивності
+- Робота з Astro та Metro UI для створення швидких та ефективних сайтів
 
-- Developed websites and UI components (EasyQuery.JS, EasyData.JS, Easy.Report)
-- Implemented TypeScript for better scalability
-- Optimized UI/UX for improved performance
-- Worked with Astro and Metro UI to create fast, efficient websites
+**Фріланс веб-розробник | Київ | 2021 — 2022**
 
-**Freelance Web Developer | Kyiv | 2021 — 2022**
+- Створення Metro UI — бібліотеки UI-компонентів для ефективної розробки
+- Розробка індивідуальних веб-рішень для клієнтів
+- Консультації з фронтенд-розробки та тестування
 
-- Created Metro UI, a UI component library for efficient development
-- Developed custom web solutions for clients
-- Provided frontend development and testing consultancy
+**Директор департаменту @ Internet Invest | Київ | 2013 — 2021**
 
-**Director of Department @ Internet Invest | Kyiv | 2013 — 2021**
+- Керівництво розробкою DNmarket.com — платформи для торгівлі доменами
+- Дослідження та впровадження інноваційних технологій
 
-- Led the development of DNmarket.com, a domain marketplace platform
-- Researched and implemented innovative technologies
-
-## 📩 Contact Information
+## 📩 Контактна інформація
 - Email: serhii@pimenov.com.ua
-- Phone: +3809395905654
-- Location: Kyiv, Ukraine
+- Телефон: +3809395905654
+- Локація: Київ, Україна
 - GitHub: https://github.com/olton
-- Site: https://pimenov.com.ua
+- Сайт: https://pimenov.com.ua
 - LinkedIn: https://linkedin.com/in/spimenov
+
+---

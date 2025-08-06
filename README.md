@@ -11,23 +11,6 @@
 <h3 align="center">I am a Web Developer from Kyiv, Ukraine 💙💛!</h3>
 
 ---
-
-| | |
-| :--: | :--: |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olton&theme=tokyonight&utcOffset=8) |
-
-| | | |
-| :--: | :--: | :--: |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olton&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olton&theme=tokyonight) |
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=olton&column=6&theme=onedark&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## About Me
 
 My name is Serhii Pimenov. I am a Web Developer from Kyiv, Ukraine. I'm passionate and dedicated to my work. 
@@ -73,7 +56,6 @@ Still, I find the most satisfaction in seeing the finished product do everything
 
 ![MetroUI](https://img.shields.io/badge/MetroUI-A30701?style=for-the-badge&logo=metroui&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)

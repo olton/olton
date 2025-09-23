@@ -19,7 +19,7 @@ I have over 20 years of experience as a programmer and over 10 years of experien
 ---
 
 ### General Info
-- [x] Age: **51**
+- [x] Age: **53**
 - [x] City: **Kyiv, Ukraine**
 - [x] Hobbies: **Dogs, Shooting, Fishing**
 - [x] Study: **Taurida Institute of MCL**, **Bachelor of law**

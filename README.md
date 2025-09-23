@@ -16,9 +16,6 @@
 My name is Serhii Pimenov. I am a Web Developer from Kyiv, Ukraine. I'm passionate and dedicated to my work. 
 I have over 20 years of experience as a programmer and over 10 years of experience as a professional web developer. 
 
-I enjoy every step of the design process, from discussion and collaboration to concept and execution. 
-Still, I find the most satisfaction in seeing the finished product do everything for you that it was created to do. 
-
 ---
 
 ### General Info

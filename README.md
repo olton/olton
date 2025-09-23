@@ -5,7 +5,7 @@
 
   ![](https://komarev.com/ghpvc/?username=olton)
   
-  <div><small align="center" style="color: red">Open For Job Offers!</small></div>
+  <div><small align="center" style="color: red">Sofrware Engineer in Ukrainian Processing Center</small></div>
 
 </div>  
 <h3 align="center">I am a Web Developer from Kyiv, Ukraine 💙💛!</h3>

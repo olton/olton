@@ -86,8 +86,9 @@ I have over 20 years of experience as a programmer and over 10 years of experien
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![rollup](https://img.shields.io/badge/Rollup%20js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white)
 ![esbuild](https://img.shields.io/badge/esbuild-F2E142?style=for-the-badge&logo=esbuild&logoColor=000)
-![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![vite](https://img.shields.io/badge/Vite-8DD6F9?style=for-the-badge&logo=Vite&logoColor=white)
 ![Lerna](https://img.shields.io/badge/Lerna-3E3E3E?style=for-the-badge&logo=lerna&logoColor=white)
+![gitlab](https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
 

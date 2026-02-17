@@ -107,17 +107,6 @@ I have over 20 years of experience as a programmer and over 10 years of experien
 
 ---
 
-### I’m currently working on
-
-| | | |
-| :--: | :--: | :--: |
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=Metro-UI-CSS&description_lines_count=1&theme=tokyonight)](https://github.com/olton/Metro-UI-CSS) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=latte&description_lines_count=1&theme=tokyonight)](https://github.com/olton/latte) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=minataur2&description_lines_count=1&theme=tokyonight)](https://github.com/olton/minataur2) 
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=terminal&description_lines_count=1&theme=tokyonight)](https://github.com/olton/terminal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olton&repo=model&description_lines_count=1&theme=tokyonight)](https://github.com/olton/model) |
-
-- 🔭 ... and other useful open-source projects can be found on my GitHub.
-
----
-
 If you like my project, please consider supporting it by:
 
 + Star this repository on GitHub

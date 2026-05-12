@@ -8,7 +8,7 @@
   <div><small align="center" style="color: red">Chief Software Engineer in <a href="https://upc.ua">Ukrainian Processing Center</a></small></div>
 
 </div>  
-<h3 align="center">I am a Web Developer from Kyiv, Ukraine 💙💛!</h3>
+<h3 align="center">💙💛</h3>
 
 ---
 ## About Me
